@@ -58,7 +58,7 @@ let config = {
 				calendars: [
 					{
 						color: "red",
-						url: "https://calendar.google.com/calendar/ical/s.diaz111299%40gmail.com/private-e80c9785951234eceaf6ff536dceafb6/basic.ics"
+						url: "private_calendar_link"
 					}
 				]
 			}
