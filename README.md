@@ -1,5 +1,6 @@
 # MagicMirrorBuild
 My MagicMirror configuration and notes on a Raspberry Pi 3 A+
+config.js file goes in MagicMirror/config
 
 ## Modules Used
 - [Magic Mirror](https://docs.magicmirror.builders/)
